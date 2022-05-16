@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Subrat Kumar Swain</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Subrat Kumar</h1>
+<h3 align="center">Phd Scholar, UQIDAR Fellow at The University of Queensland and IIT Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swainsubrat" alt="swainsubrat" /> </p>
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning **Adversarial Machine Learning**
 
-- 💬 Ask me about **Machine Learning, Data Engineering, GCP, Apache Airflow, and PySpark.**
+- 💬 Ask me about **Machine Learning and Deep Learning Security, Adversarial ML, GCP, ML Deployments**
 
 - 📫 How to reach me **mailofswainsubrat@gmail.com**
 
